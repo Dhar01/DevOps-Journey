@@ -6,7 +6,7 @@ In my opinion, DevOps is not really an entry-level job, and needs to learn so ma
 
 > The goal is to continue as long as I land a job. Wish me luck! 👊
 
-As I'm definitely not an expert, I will have to go through many trials and errors. That's why I'm expecting that this repository will be messy. I apologize for that, but I think, one can relate to this more as a learner. The language of this repository will be informal.
+As I'm definitely not an expert, I will have to go through many trials and errors. That's why I'm expecting that this repository will be messy. I apologize for that, but I think, one can relate to this more as a learner. At the same time, the language of this repository will be informal.
 
 Also, I apologize for my bad English, I'm currently working on it too!
 
