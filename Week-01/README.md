@@ -25,4 +25,4 @@ For example:
 
 # 📚 Resources used:
 
-- ([Introduction to DevOps | Codecademy](https://www.codecademy.com/learn/introduction-to-dev-ops))
+- [Introduction to DevOps | Codecademy](https://www.codecademy.com/learn/introduction-to-dev-ops)
