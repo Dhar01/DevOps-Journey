@@ -18,9 +18,49 @@ As I'm definitely not an expert, I will have to go through many trials and error
 
 Also, I apologize for my bad English, I'm currently working on it too!
 
+
+
+# Topic I am going to learn
+
+- Command Line of Linux
+
+- Git & GitHub
+
+- Bash (*For scripting*)
+
+- Python (*Scripting & some programming*)
+
+- SQL
+
+- DevOps Culture
+
+- Some intermediate Networking
+
+- Cloud technologies: maybe with AWS or DigitalOcean
+
+- Container technology
+
+- Observability technology
+
 # Progress
 
 - [ ] [Week 01 ](https://github.com/Dhar01/DevOps-Journey/tree/main/Week-01): Overview!
 - [ ] Week 02
 - [ ] Week 03
 - [ ] Week 04
+
+# Resources
+
+### DevOps
+
+- [championshuttler/docker-basicLearning: 🐬 Understand Docker step by step. A tutorial repo for beginners 🔥](https://github.com/championshuttler/docker-basicLearning)
+
+- [bregman-arie/devops-resources: DevOps resources](https://github.com/bregman-arie/devops-resources)
+
+- [bregman-arie/devops-exercises: DevOps Interview Questions](https://github.com/bregman-arie/devops-exercises)
+
+- [Tikam02/DevOps-Guide: DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.](https://github.com/Tikam02/DevOps-Guide)
+
+- [bregman-arie/howtheydevops: A curated collection of publicly available resources on how companies around the world practice DevOps](https://github.com/bregman-arie/howtheydevops)
+
+- Working on..
