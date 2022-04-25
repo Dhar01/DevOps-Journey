@@ -20,7 +20,9 @@ Also, I apologize for my bad English, I'm currently working on it too!
 
 
 
-# Topic I am going to learn
+<details> 
+
+    <summary> Topics I am going to learn </summary>
 
 - Command Line of Linux
 
@@ -41,6 +43,10 @@ Also, I apologize for my bad English, I'm currently working on it too!
 - Container technology
 
 - Observability technology
+  
+  
+  
+  </details>
 
 # Progress
 
