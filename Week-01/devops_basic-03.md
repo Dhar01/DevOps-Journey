@@ -79,4 +79,4 @@ Handling alerts:
 
 - **False negatives**: Pay attention when a user-affecting issue has happened, and the system does not alert us. The lack of an alert indicates a hole in our monitoring. We should hold a retrospective meeting to find out what metrics could have alerted us to the problem. 
 - **False positives**: This occurs when an alert is generated, but there is nothing wrong with the system. The threshold for an alert may need to be adjusted, or the alert might need to be deleted altogether.
-- **Un-actionable alerts**: This type of alert has little to do with a problem and doesn’t need anything done. Like false negatives, we should reduce or delete un-actionable alerts. 
+- **Unactionable alerts**: This type of alert has little to do with a problem and doesn’t need anything done. Like false negatives, we should reduce or delete un-actionable alerts. 
